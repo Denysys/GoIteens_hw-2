@@ -1,0 +1,27 @@
+/* Перше завдання */
+a[href^="https"]{
+    color: red;
+}
+
+ul+p{
+    font-size: 24px;
+}
+/* Перше завдання */
+/* Друге завдання */
+
+h3:first-child{
+    color:pink
+}
+#greycol{
+    color: gray;
+}
+div>div>p{
+    color: red;
+}
+p:nth-last-child(2){
+    color:green ;
+}
+.yellow{
+    color: yellow;
+}
+/* Друге завдання */
